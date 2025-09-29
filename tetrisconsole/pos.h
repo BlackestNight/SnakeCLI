@@ -11,5 +11,7 @@ INPUT_RECORD input();
 
 short position(std::string text, short dx, short dy);
 
+void input_handle();
+
 
 #endif // !POS_H
